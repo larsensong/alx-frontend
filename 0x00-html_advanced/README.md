@@ -19,3 +19,5 @@ Create the head and body sections
 
 inside the html tag, create the head and body tags (empty) in this order
 1-index.html
+
+2. The head - meta charset, viewport, title, description, favicons
