@@ -18,6 +18,8 @@ Open your file in your browser (the page should be blank)
 Create the head and body sections
 
 inside the html tag, create the head and body tags (empty) in this order
-1-index.html
+
 
 2. The head - meta charset, viewport, title, description, favicons
+
+   Copy the content of 1-index.html into 2-index.html
