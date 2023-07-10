@@ -127,3 +127,5 @@ inside each article write Testimonial # where the hashtag will be the ordered nu
 remove the Header text inside the <header>
 create the nav tag inside the header tag
 it should remain empty for now
+
+8. Level 1 headings
