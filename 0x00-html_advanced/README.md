@@ -117,3 +117,6 @@ Testimonial articles:
 inside the section Testimonials section
 add 3 article tags
 inside each article write Testimonial # where the hashtag will be the ordered number (1, 2, or 3)
+
+
+7. Navigation
