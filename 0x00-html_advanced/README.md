@@ -146,3 +146,6 @@ in the section tag with the the text About section, remove the text and create a
 in the section tag with the the text Latest news section, remove the text and create a level 2 heading with text Latest news
 in the section tag with the the text Testimonials section, remove the text and create a level 2 heading with text Testimonials
 in the section tag with the the text Contact section, remove the text and create a level 2 heading with text Contact
+
+10. Level 3 headings
+
