@@ -129,3 +129,8 @@ create the nav tag inside the header tag
 it should remain empty for now
 
 8. Level 1 headings
+
+Copy the content of 7-index.html into 8-index.html
+
+create the level 1 heading inside your main before your sections
+put text Homepage in your heading tag
