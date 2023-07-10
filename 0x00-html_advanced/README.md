@@ -18,3 +18,4 @@ Open your file in your browser (the page should be blank)
 Create the head and body sections
 
 inside the html tag, create the head and body tags (empty) in this order
+1-index.html
