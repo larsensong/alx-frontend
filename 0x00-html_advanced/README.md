@@ -58,3 +58,5 @@ the second link tag:
 rel: icon
 type: image/png
 href: ./favicon.png
+
+3. Simple header, main, footer
