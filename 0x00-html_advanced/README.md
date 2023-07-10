@@ -96,3 +96,6 @@ create fourth section and put the text About section inside
 create fifth section and put the text Latest news section inside
 create sixth section and put the text Testimonials section inside
 create seventh section and put the text Contact section inside
+
+
+6. Work, News, Testimonial articles
