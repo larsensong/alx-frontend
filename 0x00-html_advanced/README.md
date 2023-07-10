@@ -120,3 +120,10 @@ inside each article write Testimonial # where the hashtag will be the ordered nu
 
 
 7. Navigation
+
+
+   Copy the content of 6-index.html into 7-index.html
+
+remove the Header text inside the <header>
+create the nav tag inside the header tag
+it should remain empty for now
